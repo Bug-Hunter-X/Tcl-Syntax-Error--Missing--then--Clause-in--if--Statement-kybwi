@@ -1,0 +1,1 @@
+This repository demonstrates a common Tcl error: a missing 'then' clause in an 'if' statement.  The `bug.tcl` file contains the erroneous code, while `bugSolution.tcl` provides the corrected version.  This error results in a syntax error during Tcl script execution.
